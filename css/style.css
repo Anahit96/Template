@@ -366,3 +366,46 @@ li {
   background-color: #bdbbbb;
   color: black;
 }
+.section_contact {
+  background-color: #ecebeb;
+}
+.section_contact > div h3 {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.section_contact > div > p {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section_contact .div_contact {
+  font-size: 20px;
+}
+.section_contact .div_contact > p {
+  padding: 10px 0px;
+}
+.section_contact form {
+  margin-bottom: 50px;
+}
+.section_contact form > p {
+  padding: 10px 0px;
+}
+.section_contact form > p input {
+  width: 99%;
+  height: 30px;
+}
+.section_contact form > p button {
+  height: 40px;
+  width: 200px;
+  background-color: black;
+  color: white;
+}
+.section_contact form > p button:hover {
+  background-color: #d8d6d6;
+  color: black;
+  border: #d8d6d6;
+}
