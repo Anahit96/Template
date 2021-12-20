@@ -148,3 +148,37 @@ li {
   margin-top: 30px;
   margin-bottom: 120px;
 }
+.section_design {
+  background-color: #dfdede;
+  max-width: 100%;
+  margin: auto;
+}
+.section_design .div_design {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+}
+.section_design .div_design h3 {
+  font-size: 25px;
+  margin-top: -150px;
+  margin-bottom: 30px;
+}
+.section_design .div_design p {
+  font-size: 18px;
+  width: 550px;
+  height: 70px;
+}
+.section_design .div_design p a {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+}
+.section_design .div_design p a:hover {
+  background-color: #ccc;
+  color: black;
+}
