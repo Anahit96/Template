@@ -274,3 +274,31 @@ li {
   align-items: center;
   font-size: 35px;
 }
+.section_work {
+  margin-bottom: 100px;
+}
+.section_work h3 {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
+.section_work p {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.section_work div {
+  width: 99%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.section_work div img {
+  width: 100%;
+}
