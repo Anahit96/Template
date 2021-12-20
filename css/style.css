@@ -409,3 +409,57 @@ li {
   color: black;
   border: #d8d6d6;
 }
+.section_contact .div_map {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0px;
+}
+.footer {
+  background-color: black;
+  padding: 20px;
+}
+.footer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer div > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  color: black;
+}
+.footer div > a:hover {
+  background-color: #a5a3a3;
+}
+.footer div > a i {
+  padding: 0px 5px;
+}
+.footer .icon_footer i {
+  padding: 0px 1px;
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.footer .icon_footer i:hover {
+  background-color: #c2c0c0;
+}
+.footer > p {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer > p a {
+  padding: 20px;
+  color: white;
+  text-decoration: underline;
+}
+.footer > p a:hover {
+  color: green;
+}
